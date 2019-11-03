@@ -1,5 +1,5 @@
 from subprocess import Popen
 
 def load_jupyter_server_extension(nbapp):
-    """serve the clifford.ipynb directory with bokeh server"""
-    Popen(["panel", "serve", "myvigicrues_binder.ipynb", "--allow-websocket-origin=*"])
+    """serve the notebook with bokeh server"""
+    Popen(["panel", "serve", "dummy.ipynb", "--allow-websocket-origin=*"])
