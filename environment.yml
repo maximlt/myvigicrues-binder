@@ -1,13 +1,5 @@
-channels:
-  - conda-forge
 dependencies:
   - nbserverproxy
-  - datashader
-  - hvplot
-  - panel
-  - requests
-  - holoviews
-  - geopandas
-  - pandas
-  - bokeh
-
+  - panel==0.6.3
+  - pyviz_comms=0.7.2
+  - tornado<6
