@@ -1,5 +1,8 @@
 dependencies:
-  - nbserverproxy
-  - panel==0.6.3
-  - pyviz_comms=0.7.2
+  - nbserverproxy=0.8.8
+  - geopandas=0.6.1
+  - panel=0.6.3
+  - datashader=0.8.0
+  - hvplot=0.5.2
   - tornado<6
+  - pyviz_comms=0.7.2
