@@ -1,7 +1,7 @@
-name: myvigicrues_binder
 channels:
   - conda-forge
 dependencies:
+  - nbserverproxy
   - datashader
   - hvplot
   - panel
@@ -10,5 +10,4 @@ dependencies:
   - geopandas
   - pandas
   - bokeh
-prefix: C:\Users\maxim\Miniconda3\envs\myvigicrues_binder
 
