@@ -1,4 +1,4 @@
-# [WIP] My little Vigicrues
+# [LEARNING] My little Vigicrues
 
 A basic [`panel`](https://panel.holoviz.org/) dashboard that displays discharge data retrieved from the French [API HUBEAU](https://hubeau.eaufrance.fr/). Its name stems from the French flood warning system [Vigicrues](https://www.vigicrues.gouv.fr/).
 
